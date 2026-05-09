@@ -9,9 +9,12 @@ When a PR is submitted to a tracked GitHub branch, GitBook generates a unique st
 
 ## 2. Accessing Previews
 This feature is enabled by default if the GitBook App has read-only PR permissions.
-* **Locating the Link:** Look for the GitBook status check within your GitHub PR.
-* **Viewing:** Click **Details** to open the preview.
-* **Access Control:** Currently, previews are restricted to authorized GitBook users.
+* ### **Locating the Link:**
+  * Look for the GitBook status check within your GitHub PR.
+* ### **Viewing:**
+  * Click **Details** to open the preview.
+* ### **Access Control:**
+  * Currently, previews are restricted to authorized GitBook users.
 
 ## 3. Security & Forks
 To prevent "domain spoofing," GitBook disables previews for PRs originating from **repository forks** by default. 
