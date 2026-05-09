@@ -1,4 +1,4 @@
-# Enabling GitHub Sync
+# Github Sync Setup
 
 ## 1. Get Started
 In your space, navigate to the menu and select **Synchronize with Git**. Choose **GitHub** and click **Configure**.
