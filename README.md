@@ -7,4 +7,4 @@ Git Sync is bi-directional, so changes made directly in GitBook’s editor are a
 
 
 ### Learn more about:
-<tr><td><a href="gitsync-setup.md"><strong>Enabling GitHub sync:  </strong></a>Learn how to enable the integration if you are using GitHub.</td></tr><tr><td><br><a href="content-configuration.md"><strong>Content Configuration:  </strong></a>Learn how to configure your content including structure, summary and re-directs.</td></tr><tr><td><br><a href="github-pull-request-preview.md"><strong>GitHub Pull-Request Preview:  </strong></a>Learn how to preview the content before merging.</td></tr></tbody>
+<tr><td><a href="setup/gitsync-setup.md"><strong>Enabling GitHub sync:  </strong></a>Learn how to enable the integration if you are using GitHub.</td></tr><tr><td><br><a href="content-configuration.md"><strong>Content Configuration:  </strong></a>Learn how to configure your content including structure, summary and re-directs.</td></tr><tr><td><br><a href="github-pull-request-preview.md"><strong>GitHub Pull-Request Preview:  </strong></a>Learn how to preview the content before merging.</td></tr></tbody>
